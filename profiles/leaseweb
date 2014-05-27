@@ -1,0 +1,6 @@
+libaio-direct-128k-randr
+libaio-direct-128k-randw
+libaio-direct-4k-r
+libaio-direct-4k-w
+sync-buffered-4k-randr
+sync-buffered-4k-randw
